@@ -12,6 +12,6 @@ A simple and efficient to-do list web application built using TypeScript and Rea
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
-- **JavaScript: Core programming language used.
+- **JavaScript**: Core programming language used.
 - **CSS**: Styling the application.
 - **HTML**: Structuring the application.
